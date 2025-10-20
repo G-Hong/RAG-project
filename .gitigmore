@@ -1,0 +1,15 @@
+# Python 가상 환경 (Virtual Environment)
+venv/
+
+# 환경 변수 파일 (비밀 키, API 키 등)
+.env
+
+# macOS 시스템 파일
+.DS_Store
+
+# Python 캐시 파일
+__pycache__/
+*.pyc
+
+# (스크린샷에 보이는 data 폴더의 .DS_Store도 무시)
+data/.DS_Store
